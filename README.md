@@ -1,4 +1,5 @@
 # Creating node Project
+[![Build Status](https://travis-ci.com/HyunJun-Yoon/NodeJs_TravisCi_wed.svg?branch=master)](https://travis-ci.com/HyunJun-Yoon/NodeJs_TravisCi_wed)
 
 - mkdir week03_node_example
 - cd week03_node_example
@@ -31,7 +32,3 @@ Using nodemon you can speed up the development process and you can install as a 
 ## start the app
 
 - npm run dev
-
-## Travis Ci
-
-- [![Build Status](https://travis-ci.com/HyunJun-Yoon/NodeJs_TravisCi_wed.svg?branch=master)](https://travis-ci.com/HyunJun-Yoon/NodeJs_TravisCi_wed)
